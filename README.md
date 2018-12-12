@@ -11,7 +11,8 @@ Animation：
 <br>
 当需要代码去控制播放动画clip时:<br>
 首先需要获取到Animation组件，如下：<br>
-![](READMEIMG/animationeditor5.png)
+
+![](READMEIMG/btn1.png)
 
 <br>
 然后需要调用Play函数，如下：<br>
