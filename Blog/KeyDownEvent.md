@@ -16,6 +16,7 @@ cocos进行事件一些操作方式：
 事件在注册后，可以写一个回调函数，该函数有一个event参数，可以进行一些操作。
 
 如下：
+
 ![](https://github.com/Pixel1995/CocosCreatorBlog/blob/master/READMEIMG/keyDown1.png)
 
 进行注册的时候，只需要注册一次就好。
